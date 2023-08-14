@@ -1,4 +1,4 @@
-![image](https://github.com/kp-Captain02/The_Game_Changers/assets/101107027/45a07eac-3cdc-456e-8547-fc213e665c8f)
+
 [![GitHub license](https://img.shields.io/github/license/kp-Captain02/The_Game_Changers)](https://github.com/kp-Captain02/The_Game_Changers/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/kp-Captain02/The_Game_Changers.svg)](https://GitHub.com/kp-Captain02/The_Game_Changers/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/kp-Captain02/The_Game_Changers.svg)](https://GitHub.com/kp-Captain02/The_Game_Changers/issues/)
