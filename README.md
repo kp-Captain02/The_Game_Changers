@@ -1,6 +1,6 @@
 ## Mapping of Green Spaces To Reduce Global Warming And Climate Change
 
-## Inspiration ![(image link)
+## Inspiration !(image link)
 The Mapping of Green Spaces To Reduce Global Warming And Climate Change project draws inspiration from the urgent need to address the challenges posed by global warming and climate change. As the impacts of these issues become increasingly evident, there is a growing recognition of the critical role that urban planning and sustainable development can play in mitigating their effects.
 
 #### This project finds inspiration in the following key factors:
