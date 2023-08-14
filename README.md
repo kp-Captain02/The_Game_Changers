@@ -66,7 +66,7 @@ _Positive Impact: At its core, the project's inspiration lies in the belief that
 
 The inspiration for this project is firmly grounded in the urgency to take action against climate change, the potential for innovative technological solutions, and the shared vision of establishing sustainable urban environments for both current and future generations. The project seeks to combine expertise, innovation, and dedication to impact the world's environmental challenges positively.
 
-## What I Learned !(img/1.png)
+## What I Learned ![](img/1.png)
 The journey of building the Mapping of Green Spaces To Reduce Global Warming And Climate Change project encompassed many learning experiences across multiple domains. Throughout the process, I gained insights and developed valuable skills that have enriched my knowledge and capabilities.
 
 **Geospatial Analysis and Data Interpretation**
