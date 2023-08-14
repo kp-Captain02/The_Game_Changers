@@ -82,11 +82,11 @@ Leveraging the Intel oneAPI toolkit, especially the GeoAnalytics module, exposed
 Incorporating Air Quality Index (AQI) data analysis into the project expanded my knowledge of environmental data sources and quality assessment. Learning to integrate disparate data sources, preprocess them, and draw meaningful conclusions improved my data integration and analysis skills.
 
 
-## Utilization of Intel OneAPI Toolkit![](img/11.png)
+## Utilization of Intel OneAPI Toolkit! [](img/intel.png)
 **The Mapping of Green Spaces To Reduce Global Warming And Climate Change project leveraged the capabilities of the Intel oneAPI toolkit to enhance various aspects of the development process. The toolkit's specialized tools and libraries were instrumental in optimizing data processing, geospatial analysis, and machine learning tasks.**
 
 _**GeoAnalytics Module for Geospatial Data Handling**_
-The project tapped into the GeoAnalytics module of the Intel oneAPI toolkit, which provided a comprehensive suite of tools tailored for geospatial data analysis and manipulation. This module offered functionalities designed to efficiently preprocess, analyze, and visualize geospatial datasets, elevating the project's geospatial data handling capabilities.
+The project tapped into the GeoAnalytics module of the Intel OneAPI toolkit, which provided a comprehensive suite of tools tailored for geospatial data analysis and manipulation. This module offered functionalities designed to efficiently preprocess, analyze, and visualize geospatial datasets, elevating the project's geospatial data handling capabilities.
 
 _**Accelerated Data Processing**_
 The toolkit's optimized algorithms and parallel processing capabilities were harnessed to expedite data processing tasks. These enhancements led to increased throughput and reduced computation times, particularly crucial when dealing with large datasets such as satellite imagery and city shapefiles.
