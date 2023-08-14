@@ -34,7 +34,7 @@ The project unfolds through the following key components:
 
 **Visualization and Insights:** The project generates visualizations that portray the identified green space clusters and their relationship with air quality. These visual representations offer valuable insights to urban planners, policymakers, and communities, aiding in informed decision-making.
 
-## How I Built It
+## How I Built It![](img/122.png)
 The construction of the Mapping of Green Spaces To Reduce Global Warming And Climate Change project involved a systematic approach, combining data analysis, geospatial technology, and advanced machine learning techniques. The development process included the following steps:
 
 **Importing Libraries and Data**
