@@ -123,6 +123,6 @@ The Intel OneAPI toolkit's GeoAnalytics module significantly boosted the project
 
 _**Team Members:**_ <br>
 &emsp; &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
-&emsp; &emsp; [Kaustav Paul](https://github.com/kp-Captain02))
+&emsp; &emsp; [Kaustav Paul](https://github.com/kp-Captain02)
 &emsp; &emsp; [Yuvraj Giri]()
 &emsp; &emsp; [Tania Bhattacharya]()
