@@ -1,6 +1,6 @@
 ## Mapping of Green Spaces To Reduce Global Warming And Climate Change
 
-## Inspiration !(image link)
+## Inspiration ![](img/111.png)
 The Mapping of Green Spaces To Reduce Global Warming And Climate Change project draws inspiration from the urgent need to address the challenges posed by global warming and climate change. As the impacts of these issues become increasingly evident, there is a growing recognition of the critical role that urban planning and sustainable development can play in mitigating their effects.
 
 #### This project finds inspiration in the following key factors:
@@ -15,7 +15,7 @@ The Mapping of Green Spaces To Reduce Global Warming And Climate Change project 
 
 **Collaborative Efforts:** The idea of creating an integrated solution that addresses environmental and societal challenges was sparked by collaboration between data scientists, environmental experts, and urban planners. This interdisciplinary approach underscores the necessity of effective collective efforts to combat climate change.
 
-## What It Does !(image link)
+## What It Does ![](img/121.png)
 The Mapping of Green Spaces To Reduce Global Warming And Climate Change project encompasses a comprehensive approach to address urban environmental challenges and promote sustainable development. At its core, the project involves leveraging geospatial data, satellite imagery, and advanced data analysis techniques to identify, map, and strategically enhance green spaces within urban areas. The primary aim is to combat global warming, alleviate the impacts of climate change, and foster more resilient cities.
 
 The project unfolds through the following key components:
@@ -81,3 +81,4 @@ Leveraging the Intel oneAPI toolkit, especially the GeoAnalytics module, exposed
 **Air Quality Analysis and Data Integration**
 Incorporating Air Quality Index (AQI) data analysis into the project expanded my knowledge of environmental data sources and quality assessment. Learning to integrate disparate data sources, preprocess them, and draw meaningful conclusions improved my data integration and analysis skills.
 
+![](img/11.png)
