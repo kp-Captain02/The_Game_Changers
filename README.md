@@ -1,4 +1,4 @@
-# BuzzMaps
+![image](https://github.com/kp-Captain02/The_Game_Changers/assets/101107027/45a07eac-3cdc-456e-8547-fc213e665c8f)# BuzzMaps
 [![GitHub license](https://img.shields.io/github/license/kp-Captain02/The_Game_Changers)](https://github.com/kp-Captain02/The_Game_Changers/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/kp-Captain02/The_Game_Changers.svg)](https://GitHub.com/kp-Captain02/The_Game_Changers/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/kp-Captain02/The_Game_Changers.svg)](https://GitHub.com/kp-Captain02/The_Game_Changers/issues/)
@@ -120,3 +120,9 @@ The Intel OneAPI toolkit's GeoAnalytics module significantly boosted the project
 **2. Parallel Processing:** Parallel processing capabilities improved the speed of computations, enhancing overall project efficiency when dealing with resource-intensive tasks.
 
 **3. Optimized Algorithms:** The toolkit's specialized algorithms optimized data processing, contributing to a quicker generation of insights from geospatial and environmental datasets.
+
+_**Team Members:**_ <br>
+&emsp; &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
+&emsp; &emsp; [Kaustav Paul](https://github.com/kp-Captain02))
+&emsp; &emsp; [Yuvraj Giri]()
+&emsp; &emsp; [Tania Bhattacharya]()
